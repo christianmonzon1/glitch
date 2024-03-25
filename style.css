@@ -1,0 +1,102 @@
+.title{
+  border-style: solid;
+  background-color: #00296B;
+  padding: 10px 10px 10px 10px;
+  text-align: center;
+  color: white;
+}
+
+.aboutus{
+   width: 550px;
+}
+
+.more{
+   width: 550px;
+}
+
+.container{
+ width: 550px;
+}
+
+.homeimg{
+  height: 500px;
+  width: 600px;
+  border: solid;
+  border-color: #003F88;
+}
+
+.week{
+ text-decoration: underline;
+ color: #FFD500;
+ background-color: #003F88;
+}
+
+.rawr{
+  text-decoration: underline;
+  color: #FFD500;
+}
+
+.webimg{
+  height: 300px;
+  width: 420px;
+}
+
+.header{
+  text-decoration: underline;
+}
+
+.staff2{
+  border-style: solid;
+  background-color: #00296B;
+  padding-top: 50px;
+  padding-right: 150px;
+  padding-bottom: 50px;
+  padding-left: 150px;
+  text-align: center;
+  color: #FFD500;
+}
+
+
+
+.mm{
+  text-decoration: underline;
+  color: #FDC500;
+}
+
+.pics1{
+  height: 20px;
+  width: 20px;
+}
+
+.navbar {
+  list-style-type: none;
+  margin: 0;
+  padding: 10px;
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+  margin:0px;
+  padding:0px;
+  overflow: hidden;
+  background-color: #FDC500;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: #00296B;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  text-align: center;
+}
+
+li a:hover {
+  background-color: #FFD500;
+}
+

@@ -6,6 +6,11 @@
   color: white;
 }
 
+body{
+  font-family: "Acme", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
 .aboutus{
    width: 550px;
 }
@@ -27,13 +32,13 @@
 
 .week{
  text-decoration: underline;
- color: #FFD500;
+ color: white;
  background-color: #003F88;
 }
 
-.rawr{
+.program{
   text-decoration: underline;
-  color: #FFD500;
+  color: #00296B;
 }
 
 .webimg{
@@ -45,7 +50,7 @@
   text-decoration: underline;
 }
 
-.staff2{
+.staff{
   border-style: solid;
   background-color: #00296B;
   padding-top: 50px;
@@ -53,14 +58,14 @@
   padding-bottom: 50px;
   padding-left: 150px;
   text-align: center;
-  color: #FFD500;
+  color: #00296B;
 }
 
 
 
 .mm{
   text-decoration: underline;
-  color: #FDC500;
+  color: #00296B;
 }
 
 .pics1{
@@ -80,7 +85,7 @@ ul {
   margin:0px;
   padding:0px;
   overflow: hidden;
-  background-color: #FDC500;
+  background-color: #bceaf5;
 }
 
 li {
@@ -97,6 +102,11 @@ li a {
 }
 
 li a:hover {
-  background-color: #FFD500;
+  background-color: #e3f6fa;
 }
 
+.logo{
+  width:150px;
+  border-style: solid;
+  border-color:yellow;
+}
